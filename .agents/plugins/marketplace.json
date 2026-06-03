@@ -1,7 +1,7 @@
 {
-  "name": "openai-curated",
+  "name": "curtis-plugins",
   "interface": {
-    "displayName": "Codex official"
+    "displayName": "Curtis's Plugins"
   },
   "plugins": [
     {
