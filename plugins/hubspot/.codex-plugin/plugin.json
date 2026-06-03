@@ -1,9 +1,9 @@
 {
-  "name": "hubspot",
+  "name": "curtis-plugins",
   "version": "2.0.0",
   "description": "Work with your HubSpot data to analyze patterns, create and update records, and manage your CRM operations.",
   "author": {
-    "name": "HubSpot",
+    "name": "curtis-plugins",
     "url": "https://www.hubspot.com/"
   },
   "homepage": "https://www.hubspot.com/",

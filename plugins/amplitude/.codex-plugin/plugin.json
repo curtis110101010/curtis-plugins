@@ -1,9 +1,9 @@
 {
-  "name": "amplitude",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Product analytics and funnels",
   "author": {
-    "name": "Amplitude"
+    "name": "curtis-plugins"
   },
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",

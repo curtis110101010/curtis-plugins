@@ -1,9 +1,9 @@
 {
-  "name": "sentry",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Inspect recent issues and events in Sentry from Codex.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

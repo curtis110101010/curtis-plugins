@@ -1,9 +1,9 @@
 {
-  "name": "replit",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Work with Replit projects, apps, deployments, and workspace context",
   "author": {
-    "name": "Replit",
+    "name": "curtis-plugins",
     "url": "https://replit.com"
   },
   "homepage": "https://replit.com",

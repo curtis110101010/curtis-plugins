@@ -1,9 +1,9 @@
 {
-  "name": "cloudflare",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Cloudflare platform plugin with curated skills for Workers, Wrangler, and Agents SDK plus the official Cloudflare API MCP server.",
   "author": {
-    "name": "Cloudflare",
+    "name": "curtis-plugins",
     "url": "https://workers.cloudflare.com/"
   },
   "homepage": "https://workers.cloudflare.com/",

@@ -1,9 +1,9 @@
 {
-  "name": "google-drive",
+  "name": "curtis-plugins",
   "version": "0.1.2",
   "description": "Use Google Drive as the single entrypoint for Drive, Docs, Sheets, and Slides work.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

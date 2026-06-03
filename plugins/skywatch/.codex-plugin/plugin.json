@@ -1,9 +1,9 @@
 {
-  "name": "skywatch",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Search and explore satellite imagery from top providers including Vantor, Planet, Airbus, and more, all in...",
   "author": {
-    "name": "SkyWatch Space Applications Inc.",
+    "name": "curtis-plugins",
     "url": "https://skywatch.com"
   },
   "homepage": "https://skywatch.com",

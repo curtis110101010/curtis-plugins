@@ -1,9 +1,9 @@
 {
-  "name": "cube",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "With the Cube MCP Server, you can: - Query live Cube data from actuals, budgets, forecasts, variances, and...",
   "author": {
-    "name": "Cube",
+    "name": "curtis-plugins",
     "url": "https://www.cubesoftware.com/"
   },
   "homepage": "https://www.cubesoftware.com/",

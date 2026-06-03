@@ -1,9 +1,9 @@
 {
-  "name": "hyperframes",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Write HTML, render video. Compositions, GSAP animations, captions, voiceovers, audio-reactive visuals, and website-to-video capture for HyperFrames.",
   "author": {
-    "name": "HeyGen",
+    "name": "curtis-plugins",
     "email": "hyperframes@heygen.com",
     "url": "https://hyperframes.heygen.com"
   },

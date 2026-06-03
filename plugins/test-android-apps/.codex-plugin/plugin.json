@@ -1,9 +1,9 @@
 {
-  "name": "test-android-apps",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Test Android apps with emulator workflows for reproduction, screenshots, UI inspection, log capture, and performance profiling.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

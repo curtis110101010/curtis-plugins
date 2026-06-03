@@ -1,9 +1,9 @@
 {
-  "name": "jam",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Screen record with context",
   "author": {
-    "name": "Jam",
+    "name": "curtis-plugins",
     "url": "https://jam.dev"
   },
   "homepage": "https://jam.dev",

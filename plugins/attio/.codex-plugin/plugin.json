@@ -1,9 +1,9 @@
 {
-  "name": "attio",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Attio connects Codex directly to your CRM workspace, letting you manage customer relationships through na...",
   "author": {
-    "name": "Attio Ltd",
+    "name": "curtis-plugins",
     "url": "https://attio.com"
   },
   "repository": "https://github.com/openai/plugins",

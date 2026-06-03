@@ -1,9 +1,9 @@
 {
-  "name": "united-rentals",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Get the right equipment for the job without guesswork.",
   "author": {
-    "name": "United Rentals",
+    "name": "curtis-plugins",
     "url": "https://www.unitedrentals.com"
   },
   "repository": "https://github.com/openai/plugins",

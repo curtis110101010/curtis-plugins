@@ -1,9 +1,9 @@
 {
-  "name": "happenstance",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Happenstance searches your professional network using natural language to find the right people.",
   "author": {
-    "name": "Happenstance, Inc.",
+    "name": "curtis-plugins",
     "url": "https://happenstance.ai"
   },
   "repository": "https://github.com/openai/plugins",

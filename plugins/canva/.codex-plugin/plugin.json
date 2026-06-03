@@ -1,9 +1,9 @@
 {
-  "name": "canva",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Search, create, edit designs",
   "author": {
-    "name": "Canva",
+    "name": "curtis-plugins",
     "url": "https://www.canva.com"
   },
   "homepage": "https://www.canva.com",

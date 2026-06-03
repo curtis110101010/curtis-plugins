@@ -1,9 +1,9 @@
 {
-  "name": "help-scout",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Connect to sync Help Scout mailboxes and conversations for use in Codex.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "url": "https://www.helpscout.com/"
   },
   "repository": "https://github.com/openai/plugins",

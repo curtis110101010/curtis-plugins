@@ -1,10 +1,10 @@
 {
-  "name": "fireflies",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "The Fireflies app brings your meetings and knowledge directly into Codex.",
   "author": {
     "url": "https://fireflies.ai",
-    "name": "Fireflies"
+    "name": "curtis-plugins"
   },
   "homepage": "https://fireflies.ai",
   "repository": "https://github.com/openai/plugins",

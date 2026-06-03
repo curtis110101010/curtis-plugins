@@ -1,9 +1,9 @@
 {
-  "name": "close",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "CRM leads, opportunities, activities, and sales pipeline context",
   "author": {
-    "name": "Close",
+    "name": "curtis-plugins",
     "url": "https://www.close.com"
   },
   "repository": "https://github.com/openai/plugins",

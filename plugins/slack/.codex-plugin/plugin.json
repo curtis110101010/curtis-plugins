@@ -1,9 +1,9 @@
 {
-  "name": "slack",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Work with Slack using the configured Slack integration.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

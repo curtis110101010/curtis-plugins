@@ -1,9 +1,9 @@
 {
-  "name": "mixpanel-headless",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Analyze Mixpanel data with the mixpanel_headless Python SDK and Codex skills.",
   "author": {
-    "name": "Mixpanel",
+    "name": "curtis-plugins",
     "url": "https://mixpanel.com/home"
   },
   "homepage": "https://mixpanel.github.io/mixpanel-headless/",

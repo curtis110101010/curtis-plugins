@@ -1,9 +1,9 @@
 {
-  "name": "posthog",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Query product analytics and manage feature flags, experiments, and errors in PostHog.",
   "author": {
-    "name": "PostHog",
+    "name": "curtis-plugins",
     "url": "https://posthog.com"
   },
   "homepage": "https://posthog.com/docs",

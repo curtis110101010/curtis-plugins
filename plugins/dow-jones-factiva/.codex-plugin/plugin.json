@@ -1,9 +1,9 @@
 {
-  "name": "dow-jones-factiva",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "The Factiva Connector, enables authorized users to search Factiva\u2019s global news archive, including premium...",
   "author": {
-    "name": "Factiva, Inc.",
+    "name": "curtis-plugins",
     "url": "https://www.dowjones.com/business-intelligence/factiva/"
   },
   "homepage": "https://www.dowjones.com/business-intelligence/factiva/",

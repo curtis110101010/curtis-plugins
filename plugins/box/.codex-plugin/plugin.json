@@ -1,9 +1,9 @@
 {
-  "name": "box",
+  "name": "curtis-plugins",
   "version": "0.0.1",
   "description": "Search and reference your documents",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "url": "https://www.box.com/home"
   },
   "homepage": "https://www.box.com/home",

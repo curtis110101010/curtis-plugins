@@ -1,9 +1,9 @@
 {
-  "name": "stripe",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Payments and business tools",
   "author": {
-    "name": "Stripe",
+    "name": "curtis-plugins",
     "url": "https://stripe.com"
   },
   "homepage": "https://stripe.com",

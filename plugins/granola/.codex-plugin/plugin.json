@@ -1,9 +1,9 @@
 {
-  "name": "granola",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Granola MCP connects your meeting history to Codex so your assistant can pull real context from past conv...",
   "author": {
-    "name": "Granola",
+    "name": "curtis-plugins",
     "url": "https://www.granola.ai"
   },
   "homepage": "https://www.granola.ai",

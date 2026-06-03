@@ -1,9 +1,9 @@
 {
-  "name": "quickbooks",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "QuickBooks accounting, invoices, expenses, customers, and payment context",
   "author": {
-    "name": "QuickBooks",
+    "name": "curtis-plugins",
     "url": "https://quickbooks.intuit.com"
   },
   "homepage": "https://quickbooks.intuit.com",

@@ -1,9 +1,9 @@
 {
-  "name": "expo",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Official Expo skills for building, deploying, upgrading, and debugging Expo and React Native apps.",
   "author": {
-    "name": "Expo Team",
+    "name": "curtis-plugins",
     "email": "support@expo.dev",
     "url": "https://expo.dev"
   },

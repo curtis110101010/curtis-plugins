@@ -1,9 +1,9 @@
 {
-  "name": "calendly",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Search Calendly events and availability so Codex can reason about meetings and scheduling.",
   "author": {
-    "name": "Calendly",
+    "name": "curtis-plugins",
     "url": "https://calendly.com"
   },
   "homepage": "https://calendly.com",

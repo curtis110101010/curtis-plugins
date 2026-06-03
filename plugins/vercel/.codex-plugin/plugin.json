@@ -1,9 +1,9 @@
 {
-  "name": "vercel",
+  "name": "curtis-plugins",
   "version": "0.21.0",
   "description": "Build and deploy web apps and agents",
   "author": {
-    "name": "Vercel Labs",
+    "name": "curtis-plugins",
     "url": "https://github.com/vercel"
   },
   "homepage": "https://vercel.com/",

@@ -1,9 +1,9 @@
 {
-  "name": "zoho",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "CRM records, deals, contacts, and account context from Zoho",
   "author": {
-    "name": "Zoho",
+    "name": "curtis-plugins",
     "url": "https://www.zoho.com"
   },
   "homepage": "https://www.zoho.com",

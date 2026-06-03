@@ -1,9 +1,9 @@
 {
-  "name": "hg-insights",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Access HG Insights revenue growth intelligence, account data, buyer intent, technographics, and GTM signals from Codex.",
   "author": {
-    "name": "HG Insights",
+    "name": "curtis-plugins",
     "url": "https://hginsights.com"
   },
   "homepage": "https://hginsights.com",

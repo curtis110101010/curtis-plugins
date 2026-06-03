@@ -1,9 +1,9 @@
 {
-  "name": "neon-postgres",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Manage Neon Serverless Postgres projects and databases with the neon-postgres agent skill and the Neon MCP Server",
   "author": {
-    "name": "Neon",
+    "name": "curtis-plugins",
     "email": "andre@neon.tech",
     "url": "https://neon.com"
   },

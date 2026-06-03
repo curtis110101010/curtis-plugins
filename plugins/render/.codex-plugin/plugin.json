@@ -1,9 +1,9 @@
 {
-  "name": "render",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Skills for deploying, debugging, monitoring, and migrating apps on Render.",
   "author": {
-    "name": "Render",
+    "name": "curtis-plugins",
     "email": "support@render.com",
     "url": "https://render.com"
   },

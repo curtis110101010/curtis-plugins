@@ -1,9 +1,9 @@
 {
-  "name": "sendgrid",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Connector for interacting with the SendGrid email API.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "url": "https://sendgrid.com/"
   },
   "homepage": "https://sendgrid.com/",

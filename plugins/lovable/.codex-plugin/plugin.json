@@ -1,9 +1,9 @@
 {
-  "name": "lovable",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Build and inspect Lovable app projects from connected workspace context",
   "author": {
-    "name": "Lovable",
+    "name": "curtis-plugins",
     "url": "https://lovable.dev"
   },
   "homepage": "https://lovable.dev",

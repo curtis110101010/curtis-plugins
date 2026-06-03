@@ -1,9 +1,9 @@
 {
-  "name": "meticulate",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Company matching, firmographic lookup, and go-to-market account intelligence",
   "author": {
-    "name": "Meticulate"
+    "name": "curtis-plugins"
   },
   "repository": "https://github.com/openai/plugins",
   "license": "MIT",

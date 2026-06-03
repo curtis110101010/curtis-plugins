@@ -1,9 +1,9 @@
 {
-  "name": "semrush",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "The Semrush MCP provides structured, quantitative SEO and traffic data for domains, keywords, backlinks, an...",
   "author": {
-    "name": "Semrush Holdings, Inc.",
+    "name": "curtis-plugins",
     "url": "https://www.semrush.com/"
   },
   "homepage": "https://www.semrush.com/",

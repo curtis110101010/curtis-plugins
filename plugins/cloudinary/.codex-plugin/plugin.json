@@ -1,10 +1,10 @@
 {
-  "name": "cloudinary",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Manage, search, and transform your Cloudinary media library \u2014 directly from Codex.",
   "author": {
     "url": "https://cloudinary.com/",
-    "name": "Cloudinary"
+    "name": "curtis-plugins"
   },
   "homepage": "https://cloudinary.com/",
   "repository": "https://github.com/openai/plugins",

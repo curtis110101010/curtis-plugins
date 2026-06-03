@@ -1,9 +1,9 @@
 {
-  "name": "waldo",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Waldo is an AI-powered strategy platform for agencies and brands.",
   "author": {
-    "name": "Curiosities, Inc.",
+    "name": "curtis-plugins",
     "url": "https://www.waldo.fyi"
   },
   "repository": "https://github.com/openai/plugins",

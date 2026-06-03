@@ -1,9 +1,9 @@
 {
-  "name": "build-macos-apps",
+  "name": "curtis-plugins",
   "version": "0.1.2",
   "description": "Build, run, test, debug, instrument, and implement local macOS apps using Xcode, SwiftUI, AppKit interop, unified logging, and shell-first desktop workflows.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

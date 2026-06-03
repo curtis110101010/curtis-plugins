@@ -1,9 +1,9 @@
 {
-  "name": "convex",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Add a reactive, type-safe backend, database, server functions, and scaling guidance to JavaScript and TypeScript apps with Convex.",
   "author": {
-    "name": "Convex, Inc.",
+    "name": "curtis-plugins",
     "email": "support@convex.dev",
     "url": "https://www.convex.dev"
   },

@@ -1,9 +1,9 @@
 {
-  "name": "alation",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Data catalog search, lineage, governance, and documentation from Alation",
   "author": {
-    "name": "Alation",
+    "name": "curtis-plugins",
     "url": "https://www.alation.com"
   },
   "homepage": "https://www.alation.com",

@@ -1,9 +1,9 @@
 {
-  "name": "taxdown",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "TaxDown te ayuda a resolver dudas fiscales en Espa\u00f1a, tanto para particulares como aut\u00f3nomos: deducciones,...",
   "author": {
-    "name": "TAXDOWN S.L.",
+    "name": "curtis-plugins",
     "url": "https://taxdown.es/"
   },
   "repository": "https://github.com/openai/plugins",

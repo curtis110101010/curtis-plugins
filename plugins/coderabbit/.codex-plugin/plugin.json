@@ -1,9 +1,9 @@
 {
-  "name": "coderabbit",
+  "name": "curtis-plugins",
   "version": "1.1.1",
   "description": "AI-powered code review in Codex, powered by CodeRabbit.",
   "author": {
-    "name": "CodeRabbit AI",
+    "name": "curtis-plugins",
     "email": "support@coderabbit.ai",
     "url": "https://coderabbit.ai"
   },

@@ -1,9 +1,9 @@
 {
-  "name": "outlook-calendar",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Connect Outlook Calendar for scheduling, daily briefs, event prep, and safe meeting changes.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

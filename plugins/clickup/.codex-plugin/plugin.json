@@ -1,5 +1,5 @@
 {
-  "name": "clickup",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Turn Codex into your ClickUp command center.",
   "repository": "https://github.com/openai/plugins",
@@ -21,6 +21,6 @@
     "developerName": "ClickUp"
   },
   "author": {
-    "name": "ClickUp"
+    "name": "curtis-plugins"
   }
 }

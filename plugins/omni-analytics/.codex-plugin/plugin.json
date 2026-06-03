@@ -1,9 +1,9 @@
 {
-  "name": "omni-analytics",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Query Omni using the same semantic model, permissions, and logic defined by your data team directly from Codex.",
   "author": {
-    "name": "Omni Analytics",
+    "name": "curtis-plugins",
     "url": "https://www.omni.co"
   },
   "homepage": "https://www.omni.co",

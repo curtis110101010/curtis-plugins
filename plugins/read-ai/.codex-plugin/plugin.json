@@ -1,9 +1,9 @@
 {
-  "name": "read-ai",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Read AI brings your meeting intelligence directly into your AI workflows.",
   "author": {
-    "name": "Read AI, Inc",
+    "name": "curtis-plugins",
     "url": "https://read.ai"
   },
   "repository": "https://github.com/openai/plugins",

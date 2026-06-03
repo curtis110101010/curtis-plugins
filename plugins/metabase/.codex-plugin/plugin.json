@@ -1,9 +1,9 @@
 {
-  "name": "metabase",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Query and explore your Metabase data",
   "author": {
-    "name": "Metabase",
+    "name": "curtis-plugins",
     "email": "support@metabase.com",
     "url": "https://www.metabase.com"
   },

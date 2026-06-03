@@ -1,9 +1,9 @@
 {
-  "name": "zotero",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Work with Zotero from Codex: search your library, export BibTeX, insert citations, and import references through the Zotero desktop app.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

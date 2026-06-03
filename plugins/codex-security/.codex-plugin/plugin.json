@@ -1,9 +1,9 @@
 {
-  "name": "codex-security",
+  "name": "curtis-plugins",
   "version": "0.1.6",
   "description": "Codex Security workflows for security scans, analysis, and investigation.",
   "author": {
-    "name": "OpenAI"
+    "name": "curtis-plugins"
   },
   "homepage": "https://developers.openai.com/codex/security",
   "repository": "https://github.com/openai/plugins",

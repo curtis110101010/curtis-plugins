@@ -1,9 +1,9 @@
 {
-  "name": "zoom",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Connect Codex to Zoom meeting context and build Zoom apps, bots, API integrations, SDK workflows, webhooks, and automations.",
   "author": {
-    "name": "Zoom",
+    "name": "curtis-plugins",
     "url": "https://github.com/zoom"
   },
   "homepage": "https://developers.zoom.us/",

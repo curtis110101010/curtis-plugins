@@ -1,9 +1,9 @@
 {
-  "name": "deepnote",
+  "name": "curtis-plugins",
   "version": "0.1.2",
   "description": "Use Deepnote's collaborative data workspace to explore data, automate notebooks and SQL workflows, and turn analysis into shareable results.",
   "author": {
-    "name": "Deepnote",
+    "name": "curtis-plugins",
     "url": "https://deepnote.com"
   },
   "homepage": "https://deepnote.com",

@@ -1,10 +1,10 @@
 {
-  "name": "alpaca",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Stop watching the markets.",
   "author": {
     "url": "https://alpaca.markets/",
-    "name": "Alpaca"
+    "name": "curtis-plugins"
   },
   "homepage": "https://alpaca.markets/",
   "repository": "https://github.com/openai/plugins",

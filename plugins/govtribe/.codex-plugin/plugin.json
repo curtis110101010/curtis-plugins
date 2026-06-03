@@ -1,9 +1,9 @@
 {
-  "name": "govtribe",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Search government contracts, awards, and vendors directly from Codex.",
   "author": {
-    "name": "Government Executive Media Group LLC",
+    "name": "curtis-plugins",
     "url": "https://govtribe.com/"
   },
   "repository": "https://github.com/openai/plugins",

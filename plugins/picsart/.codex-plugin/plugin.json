@@ -1,9 +1,9 @@
 {
-  "name": "picsart",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Image editing, creative assets, and design workflows from Picsart",
   "author": {
-    "name": "Picsart",
+    "name": "curtis-plugins",
     "url": "https://picsart.com"
   },
   "homepage": "https://picsart.com",

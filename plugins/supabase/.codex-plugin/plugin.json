@@ -1,9 +1,9 @@
 {
-  "name": "supabase",
+  "name": "curtis-plugins",
   "version": "0.1.4",
   "description": "Access your Supabase projects and perform tasks like managing tables, fetching config, and querying data.",
   "author": {
-    "name": "Supabase",
+    "name": "curtis-plugins",
     "email": "support@supabase.io",
     "url": "https://supabase.com"
   },

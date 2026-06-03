@@ -1,10 +1,10 @@
 {
-  "name": "coupler-io",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Codex by co...",
   "author": {
     "url": "https://www.coupler.io/",
-    "name": "Coupler.io"
+    "name": "curtis-plugins"
   },
   "homepage": "https://www.coupler.io/",
   "repository": "https://github.com/openai/plugins",

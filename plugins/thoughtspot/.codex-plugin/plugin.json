@@ -1,9 +1,9 @@
 {
-  "name": "thoughtspot",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Business intelligence answers, dashboards, metrics, and revenue analysis",
   "author": {
-    "name": "ThoughtSpot",
+    "name": "curtis-plugins",
     "url": "https://www.thoughtspot.com"
   },
   "repository": "https://github.com/openai/plugins",

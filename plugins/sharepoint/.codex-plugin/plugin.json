@@ -1,9 +1,9 @@
 {
-  "name": "sharepoint",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Work with SharePoint using the configured Microsoft SharePoint app connector.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

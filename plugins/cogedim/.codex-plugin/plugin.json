@@ -1,9 +1,9 @@
 {
-  "name": "cogedim",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Cogedim is one of France's leading real estate developers.",
   "author": {
-    "name": "ALTAREA PROMOTION MANAGEMENT",
+    "name": "curtis-plugins",
     "url": "https://www.cogedim.com"
   },
   "repository": "https://github.com/openai/plugins",

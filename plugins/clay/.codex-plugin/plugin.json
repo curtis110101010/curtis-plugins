@@ -1,9 +1,9 @@
 {
-  "name": "clay",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Find, enrich, and organize GTM accounts, contacts, and prospecting workflows from Clay.",
   "author": {
-    "name": "Clay",
+    "name": "curtis-plugins",
     "url": "https://www.clay.com"
   },
   "homepage": "https://www.clay.com",

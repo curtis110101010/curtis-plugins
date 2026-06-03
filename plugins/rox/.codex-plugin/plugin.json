@@ -1,9 +1,9 @@
 {
-  "name": "rox",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Access Rox revenue agents, account intelligence, and sales workflow automation from Codex.",
   "author": {
-    "name": "Rox Data Corp",
+    "name": "curtis-plugins",
     "url": "https://www.rox.com"
   },
   "homepage": "https://www.rox.com",

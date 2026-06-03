@@ -1,9 +1,9 @@
 {
-  "name": "vantage",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Vantage is a cloud observability and optimization platform that aggregates cloud infrastructure costs acros...",
   "author": {
-    "name": "Vantage",
+    "name": "curtis-plugins",
     "url": "https://www.vantage.sh"
   },
   "repository": "https://github.com/openai/plugins",

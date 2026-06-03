@@ -1,9 +1,9 @@
 {
-  "name": "hebbia",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Document research, evidence-backed answers, and project analysis from Hebbia",
   "author": {
-    "name": "Hebbia",
+    "name": "curtis-plugins",
     "url": "https://www.hebbia.ai"
   },
   "homepage": "https://www.hebbia.ai",

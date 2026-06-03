@@ -1,9 +1,9 @@
 {
-  "name": "setu-bharat-connect-billpay",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "This app helps you pay your utility bills through simple conversation.",
   "author": {
-    "name": "Setu",
+    "name": "curtis-plugins",
     "url": "https://setu.co/"
   },
   "repository": "https://github.com/openai/plugins",

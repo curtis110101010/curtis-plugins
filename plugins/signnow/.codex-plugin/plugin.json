@@ -1,9 +1,9 @@
 {
-  "name": "signnow",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Get documents signed faster without switching between tools.",
   "author": {
-    "name": "airSlate Inc",
+    "name": "curtis-plugins",
     "url": "https://www.signnow.com"
   },
   "repository": "https://github.com/openai/plugins",

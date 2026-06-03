@@ -1,9 +1,9 @@
 {
-  "name": "policynote",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Use the PolicyNote app to access structured policy and regulatory intelligence from around the world.",
   "author": {
-    "name": "FiscalNote",
+    "name": "curtis-plugins",
     "url": "https://fiscalnote.com/products/policynote-api"
   },
   "repository": "https://github.com/openai/plugins",

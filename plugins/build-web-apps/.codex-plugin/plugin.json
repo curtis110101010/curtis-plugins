@@ -1,9 +1,9 @@
 {
-  "name": "build-web-apps",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Build web apps with frontend asset design, browser testing, UI components, payments, and database guidance.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

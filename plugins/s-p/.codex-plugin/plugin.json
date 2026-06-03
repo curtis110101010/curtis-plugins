@@ -1,9 +1,9 @@
 {
-  "name": "s-p",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Company financials, ratings context, market research, and industry data",
   "author": {
-    "name": "S&P Global",
+    "name": "curtis-plugins",
     "url": "https://www.spglobal.com"
   },
   "repository": "https://github.com/openai/plugins",

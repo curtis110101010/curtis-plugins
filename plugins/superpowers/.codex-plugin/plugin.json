@@ -1,9 +1,9 @@
 {
-  "name": "superpowers",
+  "name": "curtis-plugins",
   "version": "5.1.0",
   "description": "An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.",
   "author": {
-    "name": "Jesse Vincent",
+    "name": "curtis-plugins",
     "email": "jesse@fsck.com",
     "url": "https://github.com/obra"
   },

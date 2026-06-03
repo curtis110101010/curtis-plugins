@@ -1,9 +1,9 @@
 {
-  "name": "docket",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Docket AI makes your sales knowledge your instant superpower.",
   "author": {
-    "name": "Docket AI",
+    "name": "curtis-plugins",
     "url": "https://www.docket.io/"
   },
   "homepage": "https://www.docket.io/",

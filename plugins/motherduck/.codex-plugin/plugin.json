@@ -1,9 +1,9 @@
 {
-  "name": "motherduck",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Connect AI assistants to your MotherDuck data warehouse.",
   "author": {
-    "name": "MotherDuck Corporation",
+    "name": "curtis-plugins",
     "url": "https://motherduck.com/"
   },
   "homepage": "https://motherduck.com/",

@@ -1,9 +1,9 @@
 {
-  "name": "temporal",
+  "name": "curtis-plugins",
   "version": "0.2.0",
   "description": "Comprehensive skill for the entire Temporal lifecycle — developing applications, using the Temporal CLI, running and managing Temporal Server, and working with Temporal Cloud.",
   "author": {
-    "name": "Temporal",
+    "name": "curtis-plugins",
     "url": "https://temporal.io/"
   },
   "homepage": "https://temporal.io/",

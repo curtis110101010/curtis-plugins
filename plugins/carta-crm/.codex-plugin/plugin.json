@@ -1,9 +1,9 @@
 {
-  "name": "carta-crm",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Carta CRM helps investment teams stay on top of deal flow by keeping deals, companies, and relationships in...",
   "author": {
-    "name": "Carta Inc.",
+    "name": "curtis-plugins",
     "url": "https://carta.com"
   },
   "repository": "https://github.com/openai/plugins",

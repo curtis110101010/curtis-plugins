@@ -1,9 +1,9 @@
 {
-  "name": "fiscal-ai",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Financial research, company fundamentals, filings, and market insights from Fiscal AI",
   "author": {
-    "name": "Fiscal AI",
+    "name": "curtis-plugins",
     "url": "https://fiscal.ai"
   },
   "homepage": "https://fiscal.ai",

@@ -1,9 +1,9 @@
 {
-  "name": "hugging-face",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Inspect models, datasets, Spaces, and research",
   "author": {
-    "name": "Hugging Face",
+    "name": "curtis-plugins",
     "url": "https://huggingface.co"
   },
   "homepage": "https://huggingface.co",

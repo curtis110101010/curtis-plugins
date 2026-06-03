@@ -1,9 +1,9 @@
 {
-  "name": "aiera",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Earnings calls, transcripts, financial events, and market commentary",
   "author": {
-    "name": "Aiera",
+    "name": "curtis-plugins",
     "url": "https://www.aiera.com"
   },
   "repository": "https://github.com/openai/plugins",

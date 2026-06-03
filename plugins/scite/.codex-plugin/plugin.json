@@ -1,9 +1,9 @@
 {
-  "name": "scite",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Scite delivers answers grounded in peer-reviewed research you can verify.",
   "author": {
-    "name": "Scite",
+    "name": "curtis-plugins",
     "url": "https://www.scite.ai"
   },
   "homepage": "https://www.scite.ai",

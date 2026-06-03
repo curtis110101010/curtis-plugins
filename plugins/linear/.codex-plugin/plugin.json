@@ -1,9 +1,9 @@
 {
-  "name": "linear",
+  "name": "curtis-plugins",
   "version": "0.0.0",
   "description": "Find and reference issues and projects.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "url": "https://linear.app/"
   },
   "homepage": "https://linear.app/",

@@ -1,9 +1,9 @@
 {
-  "name": "multi-skill-plugin",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Multi-skill plugin fixture for plugin-eval tests.",
   "author": {
-    "name": "Plugin Eval",
+    "name": "curtis-plugins",
     "email": "support@example.com",
     "url": "https://example.com/"
   },

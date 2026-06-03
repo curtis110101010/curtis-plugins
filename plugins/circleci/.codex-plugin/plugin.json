@@ -1,9 +1,9 @@
 {
-  "name": "circleci",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Build, test, and deploy any application",
   "author": {
-    "name": "CircleCI",
+    "name": "curtis-plugins",
     "url": "https://circleci.com"
   },
   "homepage": "https://circleci.com",

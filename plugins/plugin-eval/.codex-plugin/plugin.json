@@ -1,9 +1,9 @@
 {
-  "name": "plugin-eval",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Evaluate Codex skills and plugins from chat with a beginner-friendly start command, local-first reports, token budget explanations, and guided benchmarking.",
   "author": {
-    "name": "OpenAI Codex",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

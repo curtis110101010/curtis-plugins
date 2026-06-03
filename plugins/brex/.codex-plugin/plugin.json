@@ -1,9 +1,9 @@
 {
-  "name": "brex",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Connect Brex to Codex and review your company finances through natural conversation \u2014 at Codex speed.",
   "author": {
-    "name": "Brex Inc.",
+    "name": "curtis-plugins",
     "url": "https://brex.com"
   },
   "homepage": "https://brex.com",

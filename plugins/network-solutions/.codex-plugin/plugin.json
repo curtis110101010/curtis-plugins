@@ -1,9 +1,9 @@
 {
-  "name": "network-solutions",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "The Network Solutions Domain Search Assistant makes finding an available domain fast, simple, and conversat...",
   "author": {
-    "name": "Network Solutions",
+    "name": "curtis-plugins",
     "url": "https://www.networksolutions.com/"
   },
   "homepage": "https://www.networksolutions.com/",

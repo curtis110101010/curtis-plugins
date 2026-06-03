@@ -1,9 +1,9 @@
 {
-  "name": "atlassian-rovo",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Manage Jira and Confluence fast",
   "author": {
-    "name": "Atlassian",
+    "name": "curtis-plugins",
     "url": "https://www.atlassian.com"
   },
   "homepage": "https://www.atlassian.com",

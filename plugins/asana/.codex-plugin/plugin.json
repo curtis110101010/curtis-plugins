@@ -1,9 +1,9 @@
 {
-  "name": "asana",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.",
   "author": {
-    "name": "Asana, Inc.",
+    "name": "curtis-plugins",
     "url": "https://asana.com"
   },
   "homepage": "https://asana.com",

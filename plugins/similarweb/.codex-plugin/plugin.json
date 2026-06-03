@@ -1,9 +1,9 @@
 {
-  "name": "similarweb",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Digital market intelligence and web traffic analytics",
   "author": {
-    "name": "Similarweb",
+    "name": "curtis-plugins",
     "url": "https://www.similarweb.com"
   },
   "repository": "https://github.com/openai/plugins",

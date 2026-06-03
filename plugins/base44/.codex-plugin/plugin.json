@@ -1,9 +1,9 @@
 {
-  "name": "base44",
+  "name": "curtis-plugins",
   "version": "1.0.0-beta.1",
   "description": "Build and deploy Base44 full-stack apps with CLI project management and JavaScript/TypeScript SDK development skills",
   "author": {
-    "name": "base44",
+    "name": "curtis-plugins",
     "url": "https://base44.com"
   },
   "homepage": "https://docs.base44.com",

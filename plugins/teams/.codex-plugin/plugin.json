@@ -1,9 +1,9 @@
 {
-  "name": "teams",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Work with Teams using the configured Microsoft Teams app connector.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },

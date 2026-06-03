@@ -1,9 +1,9 @@
 {
-  "name": "apollo",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "B2B prospecting, account research, contacts, and outreach lists",
   "author": {
-    "name": "Apollo",
+    "name": "curtis-plugins",
     "url": "https://www.apollo.io"
   },
   "repository": "https://github.com/openai/plugins",

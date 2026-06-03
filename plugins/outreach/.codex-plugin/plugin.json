@@ -1,9 +1,9 @@
 {
-  "name": "outreach",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Sales engagement, prospects, sequences, and deal activity context",
   "author": {
-    "name": "Outreach",
+    "name": "curtis-plugins",
     "url": "https://www.outreach.io"
   },
   "homepage": "https://www.outreach.io",

@@ -1,9 +1,9 @@
 {
-  "name": "moody-s",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Credit ratings, entity intelligence, and research via Moody's GenAI-Ready Data.",
   "author": {
-    "name": "Moody's",
+    "name": "curtis-plugins",
     "url": "https://www.moodys.com"
   },
   "homepage": "https://www.moodys.com/web/en/us/genai/model-context-protocol.html",

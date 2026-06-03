@@ -1,9 +1,9 @@
 {
-  "name": "streak",
+  "name": "curtis-plugins",
   "version": "1.0.0",
   "description": "Streak is a CRM built directly into Gmail, so you can track deals, contacts, and workflows from your inbox.",
   "author": {
-    "name": "Rewardly, Inc.",
+    "name": "curtis-plugins",
     "url": "https://www.streak.com"
   },
   "homepage": "https://www.streak.com",

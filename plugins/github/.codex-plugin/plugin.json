@@ -1,9 +1,9 @@
 {
-  "name": "github",
+  "name": "curtis-plugins",
   "version": "0.1.0",
   "description": "Inspect repositories, triage pull requests and issues, debug CI, and publish changes through a hybrid GitHub connector and CLI workflow.",
   "author": {
-    "name": "OpenAI",
+    "name": "curtis-plugins",
     "email": "support@openai.com",
     "url": "https://openai.com/"
   },
